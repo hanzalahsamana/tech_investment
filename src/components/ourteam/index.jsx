@@ -33,9 +33,9 @@ const TeamSection = () => {
                 <div className="btn-slide mt-1" >
                   <i className="fa fa-share"></i>
                   <span>
-                    <a href=""><i className="fab fa-facebook-f"></i></a>
-                    <a href=""><i className="fab fa-twitter"></i></a>
-                    <a href=""><i className="fab fa-instagram"></i></a>
+                    <a href="#about"><i className="fab fa-facebook-f"></i></a>
+                    <a href="#about"><i className="fab fa-twitter"></i></a>
+                    <a href="#about"><i className="fab fa-instagram"></i></a>
                   </span>
                 </div>
               </div>

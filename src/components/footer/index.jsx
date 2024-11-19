@@ -12,27 +12,27 @@ const Footer = () => {
             <p className="mb-3"><i className="fa fa-phone-alt me-3"></i>+48 502 717 717</p>
             <p className="mb-3"><i className="fa fa-envelope me-3"></i>info@example.com</p>
             <div className="d-flex pt-2">
-              <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-twitter"></i></a>
-              <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-facebook-f"></i></a>
-              <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-youtube"></i></a>
-              <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-linkedin-in"></i></a>
+              <a className="btn btn-outline-light btn-social" href="#about"><i className="fab fa-twitter"></i></a>
+              <a className="btn btn-outline-light btn-social" href="#about"><i className="fab fa-facebook-f"></i></a>
+              <a className="btn btn-outline-light btn-social" href="#about"><i className="fab fa-youtube"></i></a>
+              <a className="btn btn-outline-light btn-social" href="#about"><i className="fab fa-linkedin-in"></i></a>
             </div>
           </div>
           <div className="col-lg-3 col-md-6">
             <h4 className="text-light mb-4">Services</h4>
-            <a className="btn btn-link" href="">Air Freight</a>
-            <a className="btn btn-link" href="">Sea Freight</a>
-            <a className="btn btn-link" href="">Road Freight</a>
-            <a className="btn btn-link" href="">Logistic Solutions</a>
-            <a className="btn btn-link" href="">Industry solutions</a>
+            <a className="btn btn-link" href="#about">Air Freight</a>
+            <a className="btn btn-link" href="#about">Sea Freight</a>
+            <a className="btn btn-link" href="#about">Road Freight</a>
+            <a className="btn btn-link" href="#about">Logistic Solutions</a>
+            <a className="btn btn-link" href="#about">Industry solutions</a>
           </div>
           <div className="col-lg-3 col-md-6">
             <h4 className="text-light mb-4">Quick Links</h4>
             <a className="btn btn-link" href="#about">About Us</a>
             <a className="btn btn-link" href="#contact">Contact Us</a>
             <a className="btn btn-link" href="#service">Our Services</a>
-            <a className="btn btn-link" href="">Terms & Condition</a>
-            <a className="btn btn-link" href="">Support</a>
+            <a className="btn btn-link" href="#about">Terms & Condition</a>
+            <a className="btn btn-link" href="#about">Support</a>
           </div>
           <div className="col-lg-3 col-md-6">
             <h4 className="text-light mb-4">Newsletter</h4>
@@ -48,7 +48,7 @@ const Footer = () => {
         <div className="copyright">
           <div className="row">
             <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-              &copy; <a className="border-bottom" href="#">NewTeachInvestment</a>, All Right Reserved.
+              &copy; <a className="border-bottom" href="#about">NewTeachInvestment</a>, All Right Reserved.
             </div>
           </div>
         </div>

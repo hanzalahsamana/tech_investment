@@ -1,4 +1,3 @@
-import React, { useEffect } from 'react';
 // import 'owl.carousel/dist/assets/owl.carousel.css';
 // import 'owl.carousel/dist/assets/owl.theme.default.css';
 // import 'owl.carousel';
@@ -21,8 +20,8 @@ const Carousel = () => {
                       <h1 className="text-white text-uppercase mb-3 animated slideInDown">Premium Choice of</h1>
                       <h1 className="display-3 text-white animated slideInDown mb-4"> Energy Sector</h1>
                       <p className="fs-5 fw-medium text-white mb-4 pb-2" id='slide-bar-text'>Integrated network of subsidiaries And asscociated persons in the international waters</p>
-                      <a href="" className="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" id='btn-theme-color'>Read More</a>
-                      <a href="" className="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Free Quote</a>
+                      <a href="#about" className="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" id='btn-theme-color'>Read More</a>
+                      <a href="#about" className="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Free Quote</a>
                     </div>
                   </div>
                 </div>
@@ -39,8 +38,8 @@ const Carousel = () => {
                       <h2 className="text-white text-uppercase mb-3 animated slideInDown" >One stop solution</h2>
                       <h2 className="text-white text-uppercase mb-3 animated slideInDown">To all shopping needs</h2>
                       <p className="fs-5 fw-medium text-white mb-4 pb-2" id='slide-bar-text'>Integrated network of subsidiaries And asscociated persons in the international waters</p>
-                      <a href="" className="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" id='btn-theme-color'>Read More</a>
-                      <a href="" className="btn btn-secondary py-md-3 px-md-5 animated slideInRight" >Free Quote</a>
+                      <a href="#about" className="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" id='btn-theme-color'>Read More</a>
+                      <a href="#about" className="btn btn-secondary py-md-3 px-md-5 animated slideInRight" >Free Quote</a>
                     </div>
                   </div>
                 </div>

@@ -75,6 +75,7 @@
 #btn-theme-color{
     background-color: #7DC85E !important;
     border: none;
+    color: white !important;
 }
 #btn-theme-color:hover{
 border: #488f29;

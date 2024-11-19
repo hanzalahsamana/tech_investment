@@ -24,7 +24,7 @@ const ServiceSection = () => {
                 <img className="img-fluid" src={serviceimg1} alt="" />
               </div>
               <h4 className="mb-3">Crude Oil</h4>
-              <a className="btn-slide mt-2" href=""><i className="fa fa-arrow-right"></i><span>Contact</span></a>
+              <a className="btn-slide mt-2" href="#service"><i className="fa fa-arrow-right"></i><span>Contact</span></a>
             </div>
           </div>
           {/* Service 2 */}
@@ -34,7 +34,7 @@ const ServiceSection = () => {
                 <img className="img-fluid" src={serviceimg2} alt="" />
               </div>
               <h4 className="mb-3">Naphta</h4>
-              <a className="btn-slide mt-2" href=""><i className="fa fa-arrow-right"></i><span>Contact</span></a>
+              <a className="btn-slide mt-2" href="#service"><i className="fa fa-arrow-right"></i><span>Contact</span></a>
             </div>
           </div>
           {/* Service 3 */}
@@ -44,7 +44,7 @@ const ServiceSection = () => {
                 <img className="img-fluid" src={serviceimg3} alt="" />
               </div>
               <h4 className="mb-3">Fuel Oils</h4>
-              <a className="btn-slide mt-2" href=""><i className="fa fa-arrow-right"></i><span>Contact</span></a>
+              <a className="btn-slide mt-2" href="#service"><i className="fa fa-arrow-right"></i><span>Contact</span></a>
             </div>
           </div>
           {/* Service 4 */}
@@ -54,7 +54,7 @@ const ServiceSection = () => {
                 <img className="img-fluid" src={serviceimg4} alt="" />
               </div>
               <h4 className="mb-3">Aviation Kerosene</h4>
-              <a className="btn-slide mt-2" href=""><i className="fa fa-arrow-right"></i><span>Contact</span></a>
+              <a className="btn-slide mt-2" href="#service"><i className="fa fa-arrow-right"></i><span>Contact</span></a>
             </div>
           </div>
           {/* Service 5 */}
@@ -64,7 +64,7 @@ const ServiceSection = () => {
                 <img className="img-fluid" src={serviceimg5} alt="" />
               </div>
               <h4 className="mb-3">LPG LNG</h4>
-              <a className="btn-slide mt-2" href=""><i className="fa fa-arrow-right"></i><span>Contact</span></a>
+              <a className="btn-slide mt-2" href="#service"><i className="fa fa-arrow-right"></i><span>Contact</span></a>
             </div>
           </div>
           {/* Service 6 */}
@@ -74,7 +74,7 @@ const ServiceSection = () => {
                 <img className="img-fluid" src={serviceimg6} alt="" />
               </div>
               <h4 className="mb-3 ">Fertilizers And</h4>
-              <a className="btn-slide mt-2" href=""><i className="fa fa-arrow-right"></i><span>Read More</span></a>
+              <a className="btn-slide mt-2" href="#service"><i className="fa fa-arrow-right"></i><span>Read More</span></a>
             </div>
           </div>
         </div>

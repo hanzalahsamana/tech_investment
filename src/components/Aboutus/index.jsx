@@ -42,7 +42,7 @@ const AboutSection = () => {
                 <h5>On Time Delivery</h5>
               </div>
             </div>
-            <a href="#" className="btn 'btn-theme-color' py-3 px-5" id='btn-theme-color'>Contact Us</a>
+            <a href="#about" className="btn 'btn-theme-color' py-3 px-5" id='btn-theme-color'>Contact Us</a>
           </div>
         </div>
       </div>
