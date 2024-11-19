@@ -7,17 +7,16 @@ import Ourfeatures from '../src/components/ourfeatures/index.jsx';
 import Ourteam from '../src/components/ourteam';
 import Contact from '../src/components/Contact';
 import Footer from '../src/components/footer';
-import { Helmet } from 'react-helmet';
 import 'animate.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import 'owl.carousel/dist/assets/owl.carousel.min.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
-import './css/bootstrap.min.css';
-import './css/bootstrap.css';
+// import './css/bootstrap.min.css';
+// import './css/bootstrap.css';
 import './css/main.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+// import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 
 const HeadSection = () => {
